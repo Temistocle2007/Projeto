@@ -1,0 +1,65 @@
+*{
+ margin: 0px;
+ padding 0px; 
+ 
+}
+
+body{
+    font-family: 'Alkatra', cursive;
+}
+
+
+.cabecalho{
+    background-color: #424E61;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+ 
+        width: 10%;
+}
+.cabecalho-item{
+        display:inline-block;
+        margin: 30px 0px;
+        font-size: 24px;
+}
+.playstation{
+        background-image:linear-gradient(to bottom,#424E61,#4EBFE9);
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.playstation-div-conteudo{
+    justify-content:center;
+    align-items: center;
+    width: 50%;
+}
+
+
+.playstation-2{
+        background-image:linear-gradient(to bottom,#4EBFE9,#424E61);
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.playstation-div-conteudo2{
+    justify-content:center;
+    align-items: center;
+    width: 57%;
+    margin: 10px 0px;
+}
+
+.rodape{
+    background-color: #424E61;
+    display:flex;
+    justify-content: space-around;
+    padding:12px 0px;
+    height: 200px;
+}
+
